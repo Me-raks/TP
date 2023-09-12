@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="titre_detail_eleve">Details eleve</string>
+    <string name="prenom">Prenom : </string>
+    <string name="nom">Nom :</string>
+    <string name="adresse">Adresse :</string>
+    <string name="tel">Telephone :</string>
+    <string name="git">Genie informatique et télécom</string>
+</resources>

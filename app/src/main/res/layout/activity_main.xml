@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--    <androidx.cardview.widget.CardView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_margin="8dp"-->
+<!--        app:cardBackgroundColor="@color/secondary_ept"-->
+<!--        android:layout_weight="1"-->
+<!--       >-->
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+
+<!--            android:orientation="vertical">-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:textSize="@dimen/taille_titre"-->
+<!--                android:textColor="@color/primary_ept"-->
+<!--                android:text="@string/git"/>-->
+<!--            <TextView-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Nombre de formation 2"/>-->
+<!--            <TextView-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Chef de Departement : Mr Diouf"/>-->
+<!--        </LinearLayout>-->
+<!--    </androidx.cardview.widget.CardView>-->
+<!--    <androidx.cardview.widget.CardView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_margin="8dp"-->
+<!--        android:elevation="50dp"-->
+<!--        app:cardBackgroundColor="@color/secondary_ept"-->
+<!--        android:layout_weight="1">-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="vertical">-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_titre"-->
+<!--                android:textColor="@color/primary_ept"-->
+<!--                android:text="Genie Civil"/>-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Nombre de formations 3"/>-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Chef de Departement : Mr Fall"/>-->
+<!--        </LinearLayout>-->
+<!--    </androidx.cardview.widget.CardView>-->
+
+<!--    <androidx.cardview.widget.CardView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_margin="8dp"-->
+<!--        android:layout_weight="1"-->
+<!--       >-->
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="vertical">-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_titre"-->
+<!--                android:text="Genie Electro mecaniquee"/>-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Nombre de formations 2"/>-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Chef de Departement : Mme Fall"/>-->
+<!--        </LinearLayout>-->
+<!--    </androidx.cardview.widget.CardView>-->
+<!--    <androidx.cardview.widget.CardView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_margin="8dp"-->
+<!--        android:layout_weight="1">-->
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="vertical">-->
+<!--            <TextView-->
+<!--                android:textSize="@dimen/taille_titre"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Tronc Commun"/>-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Nombre de formations 3"/>-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="@dimen/taille_txt"-->
+<!--                android:text="Chef de Departement : Mme Thiam"/>-->
+<!--        </LinearLayout>-->
+<!--    </androidx.cardview.widget.CardView>-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
